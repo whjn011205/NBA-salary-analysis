@@ -1,3 +1,7 @@
+/* SQLite commands to process the scrapped data*/
+
+
+
 --------- Active players list current season ------------
 
 # get the active player list in 2014-15
