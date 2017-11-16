@@ -2,4 +2,4 @@
 
 This project scrap NBA playes' salary and game statistics, and perform regression to identify the factors affecting players' salary.
 
-Website for scrap:
+Website for scrap: http://www.basketball-reference.com/
